@@ -42,11 +42,8 @@ Sub Objective 1:
 |MQ 2|MQ2 Gas Sensor Module is a robust Gas sensor suitable for sensing LPG, Smoke, Carbon Monoxide concentrations in the air. All these parameter are detected continuously by sensors and if they crosses predefined limit then user get alert as a buzzer automatically turn on with LED indications.|
 ---
 ## Prototype 
-![Prototype](doc/protoype.png)
+![Prototype](Doc/protoype.png)
 ---
-```python
-![Prototype](doc/protoype.png)
-```
 
 ##  REFERENCES
 [1]Jagadeesh R, Dr. R. Nagaraja, et al., “IoT based Smart Helmet for unsafe event detection for mining industry” “International Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395 -0056 Volume: 04 Issue: 01 | Jan -2017”.
