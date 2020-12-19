@@ -40,11 +40,12 @@ Sub Objective 1:
 |DHT11|In this system works on Radio Frequency which has two parts Transmitter and Receiver. In the Transmitting part we have all the sensor attached such as DHT11 sensor for temperature and humidity sensing|
 |MQ135|MQ135 gas sensor has high sensitivity to Ammonia, Sulfide and Benze steam. It is with low cost and particularly suitable for Air quality monitoring application. MQ135 sensor connection is established on Transmitting part|
 |MQ 2|MQ2 Gas Sensor Module is a robust Gas sensor suitable for sensing LPG, Smoke, Carbon Monoxide concentrations in the air. All these parameter are detected continuously by sensors and if they crosses predefined limit then user get alert as a buzzer automatically turn on with LED indications.|
-
-## Usage
-
+---
+## Prototype 
+![Prototype](doc/protoype.png)
+---
 ```python
-
+![Prototype](doc/protoype.png)
 ```
 
 ##  REFERENCES
